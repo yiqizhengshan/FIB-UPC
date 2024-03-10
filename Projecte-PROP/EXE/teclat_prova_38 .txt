@@ -1,0 +1,4 @@
+teclat_prova_38
+2
+d,b
+a,c

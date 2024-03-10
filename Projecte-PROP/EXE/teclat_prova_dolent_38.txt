@@ -1,0 +1,7 @@
+teclat_prova_dolent_38
+false
+false
+2
+alfabetprova
+d,b
+a,c

@@ -1,0 +1,4 @@
+Aquesta carpeta conte els seguents documents
+Documentacio.pdf: Es un document pdf on estan recopilats tots el jocs de prova que hem realitzat, la relacio de classes-membre que te aquest projecte i un apartat on hem ficat unes decisions de disseny que no estan a la entrega 2.
+Manual d'usuari.pdf: Manual d'usuari de l'aplicacio.
+JAVADOC: Descripcio de atributs i metodes de les classes de tot el programa. Dins d'aquesta carpeta hi ha un arxiu anomenat index.html, que es el que s'ha d'obrir per a veure el javadoc.

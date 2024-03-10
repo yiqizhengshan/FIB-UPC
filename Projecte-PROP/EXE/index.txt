@@ -1,0 +1,9 @@
+En aquesta carpeta es poden trobar tots els fitxer emprats per tal d'executar els jocs d'assaig,
+es mostren exemples de casos on el format es correcte i casos on el format no es correcte,
+tot queda explicat al document Documentacio.pdf on s'expliquen els jocs d'assaig.
+
+Tambe ens trobem amb l'executable del programa.
+Es pot fer servir executant des del mateix directori: java -jar GeneradorTeclats.jar
+
+Important no tocar la carpeta data que es crea a l'hora d'executar el programa! Es una carpeta sensible als canvis i pot provocar que el programa no funcioni correctament.
+En cas que el programa no funcioni correctament, es pot eliminar la carpeta data i tornar a executar el programa.

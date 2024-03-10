@@ -1,0 +1,8 @@
+La carpeta FONTS esta composta per:
+    - main/java: conte tres carpetes amb el codi de totes les classes
+        - Domain
+        - exceptions
+        - Persistence
+        - Presentation
+    - Makefile: per compilar el codi mes agilment
+    - readme.md: arxiu amb l'explicacio de com executar el programa        

@@ -1,0 +1,4 @@
+AlfabetFormatIncorrecte
+4
+a b c
+

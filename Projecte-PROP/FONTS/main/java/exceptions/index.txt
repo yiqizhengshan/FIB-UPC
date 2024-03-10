@@ -1,0 +1,1 @@
+Aquest package conte totes les classes que representen les excepcions que tiren les classes que hem implementat.

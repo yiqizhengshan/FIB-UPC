@@ -1,0 +1,1 @@
+Aquest package conte totes les classes que pertanyen a la capa de Domini

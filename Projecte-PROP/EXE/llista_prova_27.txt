@@ -1,0 +1,7 @@
+llista_prova_27
+5
+hola 23
+adeu 45
+salutacions 86
+nadal 25
+impressora 12

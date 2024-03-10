@@ -1,0 +1,1 @@
+Aquest package conte totes les classes que formen la capa de Persistencia

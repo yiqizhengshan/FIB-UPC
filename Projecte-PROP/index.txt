@@ -1,0 +1,4 @@
+Aquesta carpeta conte 1 pdf amb la descripcio del grup i 3 carpetes:
+- DOCS: Aquesta carpeta conte tota la documentacio del projecte.
+- FONTS: Aquesta carpeta conte tot el codi font del projecte.
+- EXE: Aquesta carpeta conte un executable del programa i els jocs de prova.
