@@ -1,0 +1,7 @@
+<map id="Torneo.hh" name="Torneo.hh">
+<area shape="rect" id="node1" title="Especificación de la clase Torneo." alt="" coords="137,5,215,32"/>
+<area shape="rect" id="node2" href="$_cjt__jugadores_8hh.html" title="Especificación de la clase Cjt_jugadores." alt="" coords="19,80,138,107"/>
+<area shape="rect" id="node4" href="$_partido_8hh.html" title="Especificación de la clase Partido." alt="" coords="85,229,165,256"/>
+<area shape="rect" id="node5" href="$_cjt__categorias_8hh.html" title="Especificación de la clase Cjt_categorias." alt="" coords="213,80,336,107"/>
+<area shape="rect" id="node3" href="$_tenista_8hh.html" title="Especificación de la clase Tenista." alt="" coords="5,155,88,181"/>
+</map>
