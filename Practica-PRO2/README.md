@@ -52,6 +52,8 @@ Los comandos disponibles son:
 
 Yiqi Zheng - [@yiqizhengshan](https://github.com/yiqizhengshan)
 
+Link del proyecto: [https://github.com/yiqizhengshan/FIB-UPC/tree/main/Practica-PRO2](https://github.com/yiqizhengshan/FIB-UPC/tree/main/Practica-PRO2)
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
